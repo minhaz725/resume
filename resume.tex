@@ -1,0 +1,128 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[]{awesome-cv}
+\usepackage{textcomp}
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+\colorlet{awesome}{awesome-red}
+%\definecolor{awesome}{HTML}{CA63A8}
+%% Colors for text
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%\headersocialsep[\quad\textbar\quad]
+    \begin{document}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Profile
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+	\headerfirstnamestyle{Minhazur } \headerlastnamestyle{Rahman} \\
+	\vspace{2mm}
+	{\faEnvelope\ 1605093@ugrad.cse.buet.ac.bd} | {\faMobile\ +8801521487070} | {\faMapMarker\ Chattogram , Bangladesh} | {\faLink\ https://minhazrahman.me}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Education
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Education}
+\begin{cventries}
+	\cventry
+	{Level -3 , Term -2}
+	{Bangladesh University of Engineering and Technology (BUET)}
+	{Dhaka}
+	{February, 2017 – Present}
+	{}
+\end{cventries}
+
+\vspace{-2mm}
+
+\cvsection{Skills}
+\begin{cventries}
+	\cventry
+	{}
+	{\def\arraystretch{1.15}{\begin{tabular}{ l l }
+		Java  & {\skill{ }} \\
+		C  & {\skill{ }} \\
+		C++  & {\skill{ }} \\
+		HTML  & {\skill{ }} \\
+		CSS  & {\skill{ }} \\
+		JavaScript  & {\skill{ }} \\
+		Ruby  & {\skill{ }} \\
+		Ruby on Rails  & {\skill{ }} \\
+		Python  & {\skill{ }} \\
+		Latex  & {\skill{ }} \\
+		\end{tabular}}}
+	{}
+	{}
+	{}
+\end{cventries}
+
+\vspace{-7mm}
+\cvsection{Projects}
+\begin{cventries}
+	\cventry
+	{RoadRash 2D is a simple bike racing game inspired by the classic EA RoadRash.The backend was written in C and the UI was built by a custom C grahpics libray named igrahpics.In this game you\textquotesingle{}ll play as a biker with limited bike health and you will have to compete against other 9 bikers. You have to go through a busy road with a lot of traffics.Avoid collisions and secure the first place!}
+	{RoadRash 2D}
+	{C++ , IGraphics}
+	{https://github.com/minhaz725/RoadRash2D}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{Psuedo Torrent is a project is a torrent like filesharing project. It\textquotesingle{}s written in Java and GUI is built with JavaFX. It\textquotesingle{}s a psuedo peer to peer file sharing system that contains several \textquotedbl{}Clients\textquotedbl{} which act as peers , and one Server which only lists available files to clients.If there are more clients sharing a single file(seed) , a client who\textquotesingle{}s trying to download(leech) will get better download speed. If there is no seeder at all, the client won\textquotesingle{}t be able download.}
+	{Pseudo Torrent}
+	{Java, JavaFx}
+	{https://github.com/minhaz725/Pseudo-Torrent}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{Recipe Puppy website is an ingredient based recipe search engine and discover that they offer an API that returns recipes in JSON format. It fetches the recipe information based on a search term entered in the address bar \& display the information in an HTML table - specifically, the recipe photo, the recipe title (both of which would be links that can take you to the actual recipe) and the ingredients required for the recipe.}
+	{Recipe Hunter}
+	{Ruby , Rails , Html , Css}
+	{https://github.com/minhaz725/Rails\_Project\_recipe\_puppy\_bootstrap}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{}
+	{To see more of my works and projects, please visit my \href{https://github.com/minhaz725}{\underline{Github}} account. }
+	{}
+	{}
+	{}
+	
+	\vspace{-5mm}
+\end{cventries}
+
+\ 
+\end{document}
