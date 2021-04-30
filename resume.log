@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.3.16)  29 APR 2021 21:10
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.3.16)  30 APR 2021 21:03
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -543,17 +543,17 @@ LaTeX Info: Redefining \nameref on input line 44.
 \openout3 = `resume.out'.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 64.
+(Font)              scaled to size 10.00107pt on input line 52.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 64.
+(Font)              scaled to size 7.00075pt on input line 52.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 64.
+(Font)              scaled to size 5.00053pt on input line 52.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 64.
+(Font)              scaled to size 9.99893pt on input line 52.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 64.
+(Font)              scaled to size 6.99925pt on input line 52.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 64.
+(Font)              scaled to size 4.99947pt on input line 52.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
@@ -563,7 +563,7 @@ able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 64.
 
-Overfull \hbox (93.49516pt too wide) in paragraph at lines 85--85
+Overfull \hbox (119.41818pt too wide) in paragraph at lines 85--85
 [][][]|  
  []
 
@@ -576,29 +576,8 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 85.
 
-Overfull \hbox (107.58325pt too wide) in paragraph at lines 85--85
+Overfull \hbox (121.53473pt too wide) in paragraph at lines 85--85
 [][][]|  
- []
-
-
-Overfull \hbox (11.6266pt too wide) in paragraph at lines 120--120
- []\TU/SourceSansPro(2)/m/it/8 https://github.com/minhaz725/RoadRash2D[]|
- []
-
-
-Overfull \hbox (16.6746pt too wide) in paragraph at lines 128--128
- []\TU/SourceSansPro(2)/m/it/8 https://github.com/minhaz725/Cryptography-
- []
-
-
-Overfull \hbox (94.3066pt too wide) in paragraph at lines 136--136
- []\TU/SourceSansPro(2)/m/it/8 https://github.com/minhaz725/Rails_Project_recip
-e_puppy_bootstrap[]|
- []
-
-
-Overfull \hbox (8.0586pt too wide) in paragraph at lines 145--145
- []\TU/SourceSansPro(2)/m/it/8 https://github.com/minhaz725/int212b046-
  []
 
 [1
@@ -608,11 +587,11 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18398 strings out of 412016
- 313805 string characters out of 2852146
- 792517 words of memory out of 3000000
- 37866 multiletter control sequences out of 15000+200000
- 406040 words of font info for 94 fonts, out of 3000000 for 9000
+ 18396 strings out of 412016
+ 313720 string characters out of 2852146
+ 793517 words of memory out of 3000000
+ 37865 multiletter control sequences out of 15000+200000
+ 406032 words of font info for 93 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  112i,15n,116p,548b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
 
