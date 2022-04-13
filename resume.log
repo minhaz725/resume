@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.3.16)  4 MAR 2022 20:17
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.3.16)  13 APR 2022 08:26
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -554,45 +554,40 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 52.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 52.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sl' in size <9> not avail
 able
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 64.
+(Font)              Font shape `TU/SourceSansPro(1)/m/it' tried instead on inpu
+t line 66.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 64.
+t line 66.
 
-Overfull \hbox (119.41818pt too wide) in paragraph at lines 84--84
-[][][]|  
+Overfull \hbox (130.38818pt too wide) in paragraph at lines 89--89
+[][] 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 84.
+(Font)              scaled to size 9.00096pt on input line 89.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 84.
+(Font)              scaled to size 6.00064pt on input line 89.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 84.
+(Font)              scaled to size 8.99904pt on input line 89.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 84.
-
-Overfull \hbox (122.452pt too wide) in paragraph at lines 84--84
-[][][]|  
- []
-
+(Font)              scaled to size 5.99936pt on input line 89.
 [1
 
-] [2] (resume.aux)
+] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18396 strings out of 412016
- 313720 string characters out of 2852146
- 794517 words of memory out of 3000000
- 37865 multiletter control sequences out of 15000+200000
- 406032 words of font info for 93 fonts, out of 3000000 for 9000
+ 18398 strings out of 412016
+ 313730 string characters out of 2852146
+ 798517 words of memory out of 3000000
+ 37868 multiletter control sequences out of 15000+200000
+ 406033 words of font info for 93 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 112i,15n,116p,548b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 112i,15n,116p,548b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.pdf (2 pages).
+Output written on resume.pdf (1 page).
